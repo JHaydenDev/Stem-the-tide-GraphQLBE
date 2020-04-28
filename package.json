@@ -1,0 +1,25 @@
+{
+  "name": "stem-the-tide-graphqlbe",
+  "version": "1.0.0",
+  "description": "This is Graph QL Backend for the Stem the tide format website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHaydenDev/Stem-the-tide-GraphQLBE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHaydenDev/Stem-the-tide-GraphQLBE/issues"
+  },
+  "homepage": "https://github.com/JHaydenDev/Stem-the-tide-GraphQLBE#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "mongoose": "^5.9.10"
+  }
+}
